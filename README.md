@@ -1,4 +1,4 @@
-This is a simple framer motion practice.
+This is a simple Framer Motion practice, with no plans for deployment.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
