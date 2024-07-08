@@ -1,5 +1,5 @@
 This is a simple Framer Motion practice, with no plans for deployment.  
-Check out the use of <motion.div> 👉 Motion components(https://www.framer.com/motion/component/)
+Check out the use of <motion.div> 👉 Motion components (https://www.framer.com/motion/component/)
 
 <br>
 
